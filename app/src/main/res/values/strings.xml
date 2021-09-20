@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TestApplication</string>
+    <string name="bottom_sheet_error_title">Oops!</string>
+    <string name="bottom_sheet_error_text">Something went wrong</string>
+    <string name="bottom_sheet_retry_button">Retry</string>
+    <string name="bottom_sheet_cancel_button">Cancel</string>
+</resources>

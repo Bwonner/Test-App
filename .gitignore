@@ -1,0 +1,8 @@
+# Built application files
+/*/build/
+local.properties
+.gradle/
+.idea/
+**/*.iml
+.DS_Store
+.DS_Store?
